@@ -1,4 +1,4 @@
-# ZTE Script Generator
+# Script Generator
 A script generator for many configs in multi-vendor equipments.
 
 ---
