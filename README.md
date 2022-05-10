@@ -1,5 +1,5 @@
 # ZTE Script Generator
-A script generator for many configs in ZTE equipments.
+A script generator for many configs in multi-vendor equipments.
 
 ---
 
