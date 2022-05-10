@@ -24,10 +24,6 @@ Insert the vlan: 100 (change to your vlan id)
 Insert the profile name: PADRAO (change to your profile name)
 Insert the ONU starting index: 1 (check your starting index)
 Insert the ONU type: BRIDGE (change to your type name)
-
-https://user-images.githubusercontent.com/55722522/167685433-7bab0e98-17db-4264-a891-c70ef17ea081.mp4
-
-
 Insert the Unauth ONU SN list for slot 2 and pon 6 and press enter to save:
 PL1901140430
 GPON17092331
